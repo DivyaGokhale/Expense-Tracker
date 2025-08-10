@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.content{
+  height: 80vh;
+}
+
+.navbar{
+  background-color: rgb(83, 83, 168) !important;
+}
+
+.register-form {
+  align-items:center;
+  justify-content:center;
+  display: flex;
+  height:90vh;
+}
+
+.d-flex
+{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
